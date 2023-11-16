@@ -1,8 +1,6 @@
 class Polygon {
   calculateArea() {
-    throw new Error(
-      "Method 'calculateArea()' must be overridden in subclasses"
-    );
+    //please override me 
   }
 }
 
